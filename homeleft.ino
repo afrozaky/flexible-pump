@@ -1,8 +1,7 @@
 /** LINEAR STEPPER ACCELERATION
     Authors       : Zaky Hussein, Priyanka Deo
     Last Modified : June 18th, 2018
-    The following program linearly accelerates a stepper motor to bring it to a maximum frequency, runs it at the frequency for a set time,
-    then decelerates it back to a minimum frequency. Then it changes the direction of rotation and repeats the sequence.
+    The following program moves the stepper motor to bring it to the ball screw to the home position.
 */
 
 // INPUTS
